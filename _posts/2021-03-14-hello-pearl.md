@@ -1,6 +1,8 @@
 ---
-title:  "我是强棒少女吾尔珍珠"
+title:  "我是吾尔珍珠"
+subtitle: "我喜欢拍照"
 author: "张张"
+avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/MyPearl1.JPG"
 ---
 
