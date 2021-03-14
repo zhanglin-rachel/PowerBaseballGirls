@@ -2,7 +2,7 @@
 title:  "我的故事"
 subtitle: "很高兴认识你"
 author: "张张fromByteDace"
-image: "assets/images/MyPear9.jpg"
+image: "assets/images/MyPearl10.JPG"
 ---
 
 > hi~姐姐你好，很高兴认识你  
