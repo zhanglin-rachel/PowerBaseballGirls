@@ -16,8 +16,8 @@ image: "assets/images/MyPearl3.JPG"
 
 ***
 
-![thank-you-11](https://raw.githubusercontent.com/zhanglin-rachel/PowerBaseballGirls/main/assets/images/MyPearl3.JPG)
+![thank-you-11]({{ site.baseurl }}/assets/images/MyPearl3.JPG)
 
 ***
 
-![thank-you-12](https://raw.githubusercontent.com/zhanglin-rachel/PowerBaseballGirls/main/assets/images/MyPearl5.JPG)
+![thank-you-12]({{ site.baseurl }}/assets/images/MyPearl5.JPG)
