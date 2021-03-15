@@ -6,7 +6,7 @@ avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/MyPearl10.JPG"
 ---
 
-> hi~姐姐你好，很高兴认识你  
+> hi~ 很高兴认识你  
 > 我是吾尔珍珠，出生于2014.4.21，我的老家在四川凉山州  
 > 我是2020年9月加入强棒基地的，我有小小的个子，很乖很懂事，牙齿特别可爱，像从米老鼠那里偷来的，咖啡☕的味道
 
