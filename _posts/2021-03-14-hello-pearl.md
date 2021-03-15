@@ -19,4 +19,4 @@ image: "assets/images/MyPearl1.JPG"
 
 这张是最端正的，你也喜欢吗？😉😉😉
 
-![image-shoot](../assets/images/MyPearl8.JPG)
+![image-shoot]({{ site.baseurl }}/assets/images/MyPearl8.JPG)
