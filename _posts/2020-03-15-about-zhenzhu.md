@@ -17,6 +17,7 @@ image: "assets/images/MyPearl10.JPG"
 每天起床后，我都闲不住，喜欢到处玩耍，有时我也会安静地在图书馆看书📚
 
 <img src="https://raw.githubusercontent.com/zhanglin-rachel/PowerBaseballGirls/main/assets/images/MyPearl1.JPG" alt="view-pearl-life-1" width="500" height="313" />
+
 ***
 
 ![view-pearl-life-2](https://github.com/zhanglin-rachel/PowerBaseballGirls/blob/main/assets/images/MyPearl2.JPG)
